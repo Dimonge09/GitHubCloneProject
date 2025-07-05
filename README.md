@@ -1,1 +1,2 @@
-Objective: Practrice branching, merging, and resolving conflicts.
+Objective: Practice branching, merging, and resolving conflicts.
+Modificatipon in main branch.
